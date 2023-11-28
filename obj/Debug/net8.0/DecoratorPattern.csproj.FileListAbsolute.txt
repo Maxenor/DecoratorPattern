@@ -1,0 +1,14 @@
+/Users/maxime/Documents/DecoratorPattern/bin/Debug/net8.0/DecoratorPattern
+/Users/maxime/Documents/DecoratorPattern/bin/Debug/net8.0/DecoratorPattern.deps.json
+/Users/maxime/Documents/DecoratorPattern/bin/Debug/net8.0/DecoratorPattern.runtimeconfig.json
+/Users/maxime/Documents/DecoratorPattern/bin/Debug/net8.0/DecoratorPattern.dll
+/Users/maxime/Documents/DecoratorPattern/bin/Debug/net8.0/DecoratorPattern.pdb
+/Users/maxime/Documents/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxime/Documents/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.AssemblyInfoInputs.cache
+/Users/maxime/Documents/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.AssemblyInfo.cs
+/Users/maxime/Documents/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.csproj.CoreCompileInputs.cache
+/Users/maxime/Documents/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.dll
+/Users/maxime/Documents/DecoratorPattern/obj/Debug/net8.0/refint/DecoratorPattern.dll
+/Users/maxime/Documents/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.pdb
+/Users/maxime/Documents/DecoratorPattern/obj/Debug/net8.0/DecoratorPattern.genruntimeconfig.cache
+/Users/maxime/Documents/DecoratorPattern/obj/Debug/net8.0/ref/DecoratorPattern.dll
